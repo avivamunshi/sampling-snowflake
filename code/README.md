@@ -1,4 +1,4 @@
-This repo four notebooks:
+This directory contains four notebooks:
 1. Continent_Creation.ipynb
 This notebook has the code that we used to group countries by continent.
 
